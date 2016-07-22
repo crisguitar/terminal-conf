@@ -12,6 +12,12 @@ This script is used to get usefull information about the system.
 
 ![Status monitor](https://raw.githubusercontent.com/crisguitar/terminal-conf/master/images/status-monitor.png)
 
+- Number of docker containers running
+- Battery life
+- Disk consumption
+- Hour
+- Date
+
 ## dieter-cdp.zsh-theme
 
 This is a theme customized from the dieter theme for zsh
