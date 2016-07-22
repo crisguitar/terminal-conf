@@ -4,7 +4,9 @@ This is the repo where I keep my configuration files to have an awesome terminal
 
 ## .tmux.conf
 
-The only thing this file does is set a new prefix and adds a status monitor into the right.
+The only thing this file does is set a new prefix and adds a status monitor into the right and sets some colors.
+
+![Tmux conf](https://raw.githubusercontent.com/crisguitar/terminal-conf/master/images/tmux.png)
 
 ## status_monitor.sh
 
